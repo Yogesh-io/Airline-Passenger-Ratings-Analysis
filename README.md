@@ -19,7 +19,7 @@ Understanding passenger sentiment is critical to reducing churn and driving bran
 
 ## 📊 Dashboard Preview
 
-![Airline Passenger Satisfaction Dashboard](Dashboard.png) 
+![Airline Passenger Satisfaction Dashboard](./Dashboard.png) 
 
 ---
 
